@@ -36,5 +36,5 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: nirbyoleek/demp:v1
+        tags: nirbyoleek/demo:v1
         file: ./Dockerfile
